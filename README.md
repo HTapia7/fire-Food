@@ -27,6 +27,7 @@ AS A restaurant goer, I WANT to find information on good menu items I discover, 
 - Apollo Client
 - Bootstrap CSS
 - Progressive Web App technologies
+- JavaScript
 
 ## Installation
 If you wish to run this repo locally, run the following commands in the command line in the repos local folder:
